@@ -1,0 +1,294 @@
+[
+    {
+        "merged": "E:\\asworkspace\\MEditText\\CustomDialog\\build\\intermediates\\res\\merged\\debug\\layout\\layout_normalprogress_dialog.xml",
+        "source": "E:\\asworkspace\\MEditText\\CustomDialog\\src\\main\\res\\layout\\layout_normalprogress_dialog.xml"
+    },
+    {
+        "merged": "E:\\asworkspace\\MEditText\\CustomDialog\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\306f8c29bbc4b69e11262f574bbe57a045047169\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\asworkspace\\MEditText\\CustomDialog\\build\\intermediates\\res\\merged\\debug\\layout\\datetime_picker_layout.xml",
+        "source": "E:\\asworkspace\\MEditText\\CustomDialog\\src\\main\\res\\layout\\datetime_picker_layout.xml"
+    },
+    {
+        "merged": "E:\\asworkspace\\MEditText\\CustomDialog\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\2119cd66f1008eb69338b2c08ee276eec490802b\\output\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "E:\\asworkspace\\MEditText\\CustomDialog\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\306f8c29bbc4b69e11262f574bbe57a045047169\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "E:\\asworkspace\\MEditText\\CustomDialog\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\306f8c29bbc4b69e11262f574bbe57a045047169\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "E:\\asworkspace\\MEditText\\CustomDialog\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\306f8c29bbc4b69e11262f574bbe57a045047169\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "E:\\asworkspace\\MEditText\\CustomDialog\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\2119cd66f1008eb69338b2c08ee276eec490802b\\output\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "E:\\asworkspace\\MEditText\\CustomDialog\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_part_title.xml",
+        "source": "E:\\asworkspace\\MEditText\\CustomDialog\\src\\main\\res\\layout\\dialog_part_title.xml"
+    },
+    {
+        "merged": "E:\\asworkspace\\MEditText\\CustomDialog\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0d8fbfa53bfb805ebe502c312bcafd46582c22a8\\output\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "E:\\asworkspace\\MEditText\\CustomDialog\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\306f8c29bbc4b69e11262f574bbe57a045047169\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "E:\\asworkspace\\MEditText\\CustomDialog\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\306f8c29bbc4b69e11262f574bbe57a045047169\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "E:\\asworkspace\\MEditText\\CustomDialog\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0d8fbfa53bfb805ebe502c312bcafd46582c22a8\\output\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "E:\\asworkspace\\MEditText\\CustomDialog\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\306f8c29bbc4b69e11262f574bbe57a045047169\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "E:\\asworkspace\\MEditText\\CustomDialog\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\2119cd66f1008eb69338b2c08ee276eec490802b\\output\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "E:\\asworkspace\\MEditText\\CustomDialog\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\306f8c29bbc4b69e11262f574bbe57a045047169\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "E:\\asworkspace\\MEditText\\CustomDialog\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\2119cd66f1008eb69338b2c08ee276eec490802b\\output\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "E:\\asworkspace\\MEditText\\CustomDialog\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\306f8c29bbc4b69e11262f574bbe57a045047169\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\asworkspace\\MEditText\\CustomDialog\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0d8fbfa53bfb805ebe502c312bcafd46582c22a8\\output\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "E:\\asworkspace\\MEditText\\CustomDialog\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\2119cd66f1008eb69338b2c08ee276eec490802b\\output\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "E:\\asworkspace\\MEditText\\CustomDialog\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\306f8c29bbc4b69e11262f574bbe57a045047169\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "E:\\asworkspace\\MEditText\\CustomDialog\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\306f8c29bbc4b69e11262f574bbe57a045047169\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "E:\\asworkspace\\MEditText\\CustomDialog\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\306f8c29bbc4b69e11262f574bbe57a045047169\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\asworkspace\\MEditText\\CustomDialog\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\2119cd66f1008eb69338b2c08ee276eec490802b\\output\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "E:\\asworkspace\\MEditText\\CustomDialog\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\306f8c29bbc4b69e11262f574bbe57a045047169\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "E:\\asworkspace\\MEditText\\CustomDialog\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\306f8c29bbc4b69e11262f574bbe57a045047169\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "E:\\asworkspace\\MEditText\\CustomDialog\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\306f8c29bbc4b69e11262f574bbe57a045047169\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\asworkspace\\MEditText\\CustomDialog\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\2119cd66f1008eb69338b2c08ee276eec490802b\\output\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "E:\\asworkspace\\MEditText\\CustomDialog\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\306f8c29bbc4b69e11262f574bbe57a045047169\\output\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "E:\\asworkspace\\MEditText\\CustomDialog\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\306f8c29bbc4b69e11262f574bbe57a045047169\\output\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "E:\\asworkspace\\MEditText\\CustomDialog\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\306f8c29bbc4b69e11262f574bbe57a045047169\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "E:\\asworkspace\\MEditText\\CustomDialog\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\306f8c29bbc4b69e11262f574bbe57a045047169\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\asworkspace\\MEditText\\CustomDialog\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_part_list.xml",
+        "source": "E:\\asworkspace\\MEditText\\CustomDialog\\src\\main\\res\\layout\\dialog_part_list.xml"
+    },
+    {
+        "merged": "E:\\asworkspace\\MEditText\\CustomDialog\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\306f8c29bbc4b69e11262f574bbe57a045047169\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "E:\\asworkspace\\MEditText\\CustomDialog\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_part_message.xml",
+        "source": "E:\\asworkspace\\MEditText\\CustomDialog\\src\\main\\res\\layout\\dialog_part_message.xml"
+    },
+    {
+        "merged": "E:\\asworkspace\\MEditText\\CustomDialog\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\306f8c29bbc4b69e11262f574bbe57a045047169\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "E:\\asworkspace\\MEditText\\CustomDialog\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\306f8c29bbc4b69e11262f574bbe57a045047169\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "E:\\asworkspace\\MEditText\\CustomDialog\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\306f8c29bbc4b69e11262f574bbe57a045047169\\output\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "E:\\asworkspace\\MEditText\\CustomDialog\\build\\intermediates\\res\\merged\\debug\\layout\\layout_dialog_downloadapp.xml",
+        "source": "E:\\asworkspace\\MEditText\\CustomDialog\\src\\main\\res\\layout\\layout_dialog_downloadapp.xml"
+    },
+    {
+        "merged": "E:\\asworkspace\\MEditText\\CustomDialog\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\306f8c29bbc4b69e11262f574bbe57a045047169\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\asworkspace\\MEditText\\CustomDialog\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0d8fbfa53bfb805ebe502c312bcafd46582c22a8\\output\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "E:\\asworkspace\\MEditText\\CustomDialog\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\2119cd66f1008eb69338b2c08ee276eec490802b\\output\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "E:\\asworkspace\\MEditText\\CustomDialog\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\306f8c29bbc4b69e11262f574bbe57a045047169\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "E:\\asworkspace\\MEditText\\CustomDialog\\build\\intermediates\\res\\merged\\debug\\layout\\widget_imagetext_bottom.xml",
+        "source": "E:\\asworkspace\\MEditText\\CustomDialog\\src\\main\\res\\layout\\widget_imagetext_bottom.xml"
+    },
+    {
+        "merged": "E:\\asworkspace\\MEditText\\CustomDialog\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\306f8c29bbc4b69e11262f574bbe57a045047169\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "E:\\asworkspace\\MEditText\\CustomDialog\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\2119cd66f1008eb69338b2c08ee276eec490802b\\output\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "E:\\asworkspace\\MEditText\\CustomDialog\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\306f8c29bbc4b69e11262f574bbe57a045047169\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "E:\\asworkspace\\MEditText\\CustomDialog\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_part_button_separator.xml",
+        "source": "E:\\asworkspace\\MEditText\\CustomDialog\\src\\main\\res\\layout\\dialog_part_button_separator.xml"
+    },
+    {
+        "merged": "E:\\asworkspace\\MEditText\\CustomDialog\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\2119cd66f1008eb69338b2c08ee276eec490802b\\output\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "E:\\asworkspace\\MEditText\\CustomDialog\\build\\intermediates\\res\\merged\\debug\\layout\\time_picker_layout.xml",
+        "source": "E:\\asworkspace\\MEditText\\CustomDialog\\src\\main\\res\\layout\\time_picker_layout.xml"
+    },
+    {
+        "merged": "E:\\asworkspace\\MEditText\\CustomDialog\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_navigation_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\2119cd66f1008eb69338b2c08ee276eec490802b\\output\\res\\layout\\design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "E:\\asworkspace\\MEditText\\CustomDialog\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\306f8c29bbc4b69e11262f574bbe57a045047169\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\asworkspace\\MEditText\\CustomDialog\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\306f8c29bbc4b69e11262f574bbe57a045047169\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "E:\\asworkspace\\MEditText\\CustomDialog\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\306f8c29bbc4b69e11262f574bbe57a045047169\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "E:\\asworkspace\\MEditText\\CustomDialog\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\306f8c29bbc4b69e11262f574bbe57a045047169\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\asworkspace\\MEditText\\CustomDialog\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_part_button.xml",
+        "source": "E:\\asworkspace\\MEditText\\CustomDialog\\src\\main\\res\\layout\\dialog_part_button.xml"
+    },
+    {
+        "merged": "E:\\asworkspace\\MEditText\\CustomDialog\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\306f8c29bbc4b69e11262f574bbe57a045047169\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "E:\\asworkspace\\MEditText\\CustomDialog\\build\\intermediates\\res\\merged\\debug\\layout\\widget_imagetext_top.xml",
+        "source": "E:\\asworkspace\\MEditText\\CustomDialog\\src\\main\\res\\layout\\widget_imagetext_top.xml"
+    },
+    {
+        "merged": "E:\\asworkspace\\MEditText\\CustomDialog\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_part_custom.xml",
+        "source": "E:\\asworkspace\\MEditText\\CustomDialog\\src\\main\\res\\layout\\dialog_part_custom.xml"
+    },
+    {
+        "merged": "E:\\asworkspace\\MEditText\\CustomDialog\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\306f8c29bbc4b69e11262f574bbe57a045047169\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "E:\\asworkspace\\MEditText\\CustomDialog\\build\\intermediates\\res\\merged\\debug\\layout\\date_picker_layout.xml",
+        "source": "E:\\asworkspace\\MEditText\\CustomDialog\\src\\main\\res\\layout\\date_picker_layout.xml"
+    },
+    {
+        "merged": "E:\\asworkspace\\MEditText\\CustomDialog\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\306f8c29bbc4b69e11262f574bbe57a045047169\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "E:\\asworkspace\\MEditText\\CustomDialog\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\2119cd66f1008eb69338b2c08ee276eec490802b\\output\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "E:\\asworkspace\\MEditText\\CustomDialog\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_part_button_panel.xml",
+        "source": "E:\\asworkspace\\MEditText\\CustomDialog\\src\\main\\res\\layout\\dialog_part_button_panel.xml"
+    },
+    {
+        "merged": "E:\\asworkspace\\MEditText\\CustomDialog\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\306f8c29bbc4b69e11262f574bbe57a045047169\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "E:\\asworkspace\\MEditText\\CustomDialog\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\2119cd66f1008eb69338b2c08ee276eec490802b\\output\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "E:\\asworkspace\\MEditText\\CustomDialog\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\306f8c29bbc4b69e11262f574bbe57a045047169\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\asworkspace\\MEditText\\CustomDialog\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\2119cd66f1008eb69338b2c08ee276eec490802b\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "E:\\asworkspace\\MEditText\\CustomDialog\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\306f8c29bbc4b69e11262f574bbe57a045047169\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "E:\\asworkspace\\MEditText\\CustomDialog\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\306f8c29bbc4b69e11262f574bbe57a045047169\\output\\res\\layout\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "E:\\asworkspace\\MEditText\\CustomDialog\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\306f8c29bbc4b69e11262f574bbe57a045047169\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "E:\\asworkspace\\MEditText\\CustomDialog\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\306f8c29bbc4b69e11262f574bbe57a045047169\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "E:\\asworkspace\\MEditText\\CustomDialog\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0d8fbfa53bfb805ebe502c312bcafd46582c22a8\\output\\res\\layout\\notification_template_big_media_narrow.xml"
+    }
+]
